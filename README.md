@@ -15,4 +15,4 @@ This is then converted into the negative function, as CMOS logic is inherently i
 The circuit schematic was created using the function above.
 
 
-
+The project report includes more information on circuit performance and design decisions.
